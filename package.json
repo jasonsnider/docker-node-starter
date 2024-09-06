@@ -1,0 +1,11 @@
+{
+    "name": "next-jasonsnider-com",
+    "version": "0.0.1",
+    "description": "A Next.js implementation of jasonsnider.com",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Jason Snider",
+    "license": "MIT"
+  }
